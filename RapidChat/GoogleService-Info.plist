@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>124211894336-26ana3f33jq58eqqr6hgu9p4p59i2rn9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.124211894336-26ana3f33jq58eqqr6hgu9p4p59i2rn9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJNR3Zw8l88PgqGVGlw13m9LtW3SvNS5E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>124211894336</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.usc.RapidChat</string>
+	<key>PROJECT_ID</key>
+	<string>itp-project-548b9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>itp-project-548b9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:124211894336:ios:5427d48b4ce8971f50a7a5</string>
+</dict>
+</plist>
